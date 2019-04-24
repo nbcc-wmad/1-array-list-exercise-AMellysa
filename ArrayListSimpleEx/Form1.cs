@@ -16,5 +16,24 @@ namespace ArrayListSimpleEx
         {
             InitializeComponent();
         }
+
+        private void btnShowMsg_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnReverse_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAdd_Click(object sender, EventArgs e)
+        {
+
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
